@@ -1,4 +1,4 @@
-# github-learning
+# github-learning from the beggining
 Welcome to my first GitHub repository§
 This repository is part of my learning journey as a Data Analysis student.
 
